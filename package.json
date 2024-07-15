@@ -1,0 +1,19 @@
+{
+  "name": "express-library",
+  "version": "1.0.0",
+  "description": "local library project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgorsk15/express-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgorsk15/express-library/issues"
+  },
+  "homepage": "https://github.com/tgorsk15/express-library#readme"
+}
